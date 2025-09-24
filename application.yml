@@ -17,4 +17,4 @@ spring:
       missing-topics-fatal: false
 
 Server:
-  port: 33401
+  port: 33400
